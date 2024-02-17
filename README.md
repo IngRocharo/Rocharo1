@@ -1,1 +1,16 @@
-# Rocharo1
+### Rocharo1
+- 👋 Hi, I’m @IngRocharo.
+- 👀 I’m interested in Cineplanet.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate on rprojects.
+- 📫 How to reach me IngRocharo.
+- 😄 Pronouns: He.
+- ⚡ Fun fact: I paid for Winrar.
+
+<!-- 👋 Hi, I’m @IngRocharo
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
